@@ -17,7 +17,7 @@ class Menu {
       key.onDown.addOnce(function () { game.state.start(name); });
     });
 
-    var help = game.add.text(180, 166, 'Arrows to move, Up or Space to jump, Esc for menu', { font: '9px Arial', fill: '#8d99ae' });
+    var help = game.add.text(180, 166, 'Arrows to move, Up or Space to jump, Esc for menu, use number keys to select level', { font: '9px Arial', fill: '#8d99ae' });
     help.anchor.setTo(0.5);
   }
 }
