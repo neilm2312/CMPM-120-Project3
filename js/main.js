@@ -7,6 +7,6 @@ game.state.add('End', End);
 // Levels: one line each. The menu lists every state whose name starts with "Level".
 game.state.add('Level1', Level1);
 // game.state.add('Level2', Level2);
-// game.state.add('Level3', Level3);
+game.state.add('Level3', Level3);
 
 game.state.start('Boot');
