@@ -1,6 +1,6 @@
 CMPM 120 — Platformer
 Level select
-On the title screen, press 1 or 2 (or click a level) to choose which level to play.
+On the title screen, press 1, 2, or 3 to choose which level to play.
 
 Unique mechanic per level
 Level 1 — Neil
