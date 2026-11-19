@@ -4,6 +4,7 @@ On the title screen, press 1 or 2 (or click a level) to choose which level to pl
 
 Unique mechanic per level
 Level 1 — Neil
+
 Lock and key. The goal flag is sealed behind a locked door in the temple wall. The key is on top of the crates in the factory. Without the key, the door won't open and shows a hint. Once you pick up the key (shown in the top-right corner), touching the door unlocks it.
 
 Level 2 — 
