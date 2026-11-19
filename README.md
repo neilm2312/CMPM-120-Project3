@@ -9,7 +9,10 @@ Lock and key. The goal flag is sealed behind a locked door in the temple wall. T
 
 Level 2 — 
 
-Level 3 -
+Level 3 - Andy
+
+Bounce pad. The level features bounce pads which force a jump at 1.25x power.
+They are used to gain additional elevation, or as an obstancle which you should avoid to stop yourself from bouncing into a hazard. The bounce pads are mandatory in reading the goal at the top.
 
 Bonus features (all levels)
 Complex camera: deadzone with smoothed follow.
