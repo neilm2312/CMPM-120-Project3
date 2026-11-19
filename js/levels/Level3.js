@@ -8,10 +8,12 @@ class Level3 extends Level {
 
   preload() {
     this.game.load.tilemap('level3', 'assets/maps/level3.json', null, Phaser.Tilemap.TILED_JSON);
+    this.game.load.audio('bounce', 'assets/audio/jump.ogg');
   }
 
   create() {
     super.create('level3');
+    this.bounceSound = game.add.audio('bounce', 0.7);
     this.bounce_pads = this.game.add.group();
     this.objectsNamed('bounce_pad').forEach(function (bounce_pad) { 
       this.bounce_pads.add(bounce_pad); 
@@ -25,5 +27,6 @@ class Level3 extends Level {
 
   bounce(player, pad) {
     player.body.velocity.y = -player.jumpSpeed * 1.25;
+    this.bounceSound.play();
   }
 }
