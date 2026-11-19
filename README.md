@@ -15,7 +15,11 @@ Bounce pad. The level features bounce pads which force a jump at 1.25x power.
 They are used to gain additional elevation, or as an obstancle which you should avoid to stop yourself from bouncing into a hazard. The bounce pads are mandatory in reading the goal at the top.
 
 Bonus features (all levels)
+
 Complex camera: deadzone with smoothed follow.
+
 Enemies: patrolling walking and flying enemies that turn around at walls and can be stomped from above.
+
 Ways to die: spikes, pits, and touching enemies.
+
 juice: screen shake on death, screen flash on unlock, and confetti on the end screen.
